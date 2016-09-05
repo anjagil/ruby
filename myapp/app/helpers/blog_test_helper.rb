@@ -1,0 +1,2 @@
+module BlogTestHelper
+end
